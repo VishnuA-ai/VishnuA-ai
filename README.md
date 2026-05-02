@@ -15,4 +15,4 @@ Python | LangChain | LangGraph | FastAPI | Scikit-learn | Git
 Land an AI Agent / GenAI Engineer role abroad by 2027
 
 ## 📫 Connect
-[LinkedIn](your-linkedin-url-here)
+[LinkedIn](https://www.linkedin.com/in/vishnuaitech?utm_source=share_via&utm_content=profile&utm_medium=member_android)
