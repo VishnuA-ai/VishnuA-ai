@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Vishnu A. 👋
 
-<!--
-**VishnuA-ai/VishnuA-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Engineer in the making.
+B.Tech @ Karpagam Academy of Higher Education
 
-Here are some ideas to get you started:
+## 🔨 Currently Building
+- Spam Email Classifier (ML)
+- RAG Chatbot with LangChain
+- Multi-Agent AI System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+Python | LangChain | LangGraph | FastAPI | Scikit-learn | Git
+
+## 🎯 Goal
+Land an AI Agent / GenAI Engineer role abroad by 2027
+
+## 📫 Connect
+[LinkedIn](your-linkedin-url-here)
