@@ -21,31 +21,72 @@
 
 ## 🔥 About Me
 
-```python
-class VishnuA:
+<div align="center">
 
-    name         = "Vishnu A"
-    location     = "Dharapuram, Tamil Nadu, India  🇮🇳"
-    college      = "KAHE — B.Tech AI & Data Science (2024–2028)"
-    year         = "2nd Year"
-    startup      = "Founder @ Techvyn Builders"
+### 👋 Hey, I'm **Vishnu A** — an AI Agentic Engineer from Tamil Nadu, India 🇮🇳
 
-    mission = """
-        Building AI agents that REASON, PLAN & ACT.
-        Not just chatbots — autonomous systems
-        that solve real-world problems at scale.
-    """
+<br/>
 
-    philosophy   = "Don't fine-tune models. Fine-tune the architecture."
+<img src="https://img.shields.io/badge/📍_Location-Dharapuram,_Tamil_Nadu-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_Degree-B.Tech_AI_%26_DS_@_KAHE-0EA5E9?style=for-the-badge"/>
 
-    targets = {
-        "🇦🇪  UAE"    : "AI Agentic Engineer",
-        "🇹🇼  Taiwan" : "TEEP Research Internship",
-        "⏰  When"    : "Before 3rd Year ends. No excuses.",
-    }
+<br/><br/>
 
-    quote = "Build. Ship. Prove doubters WRONG. 🚀"
-```
+<img src="https://img.shields.io/badge/📅_Batch-2024_–_2028-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏢_Startup-Founder_@_Techvyn_Builders-F59E0B?style=for-the-badge"/>
+
+<br/><br/>
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🚀 What I Do
+> I build **AI agents that don't just respond — they reason, plan and act.**
+>
+> Not chatbots. Not wrappers. **Autonomous systems** that solve real-world problems at scale using LangChain, LangGraph, MCP, RAG pipelines and multi-agent orchestration.
+
+### 🎯 Right Now I'm
+- 🏗️ Building **3 UAE-specific AI agent projects**
+- 🧠 Mastering **MCP Protocol + LangGraph supervisor patterns**
+- 📄 Applying to **TEEP Research Internship in Taiwan**
+- 📈 Pushing commits daily — building in public
+
+### 💡 My Philosophy
+> *"Don't fine-tune models. Fine-tune the architecture."*
+>
+> *"Build real things. Ship fast. Prove doubters wrong."* 🚀
+
+</td>
+<td width="45%" valign="top" align="center">
+
+### 🏆 My Targets
+
+<br/>
+
+![UAE](https://img.shields.io/badge/🇦🇪_Target-AI_Agentic_Engineer_(UAE)-fe428e?style=for-the-badge)
+
+<br/><br/>
+
+![Taiwan](https://img.shields.io/badge/🇹🇼_Research-TEEP_Internship_(Taiwan)-7C3AED?style=for-the-badge)
+
+<br/><br/>
+
+![Deadline](https://img.shields.io/badge/⏰_Deadline-Before_3rd_Year_Ends-F59E0B?style=for-the-badge)
+
+<br/><br/>
+
+![Status](https://img.shields.io/badge/Status-🔥_Actively_Building-00F2FE?style=for-the-badge)
+
+<br/><br/>
+
+![Open](https://img.shields.io/badge/Open_To-Collabs_%26_Opportunities-10B981?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -168,10 +209,7 @@ class VishnuA:
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuA-ai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&text_color=c9d1d9&langs_count=8&border_radius=12"/>
 
-</div>
-
-<div align="center">
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=VishnuA-ai&theme=radical&hide_border=true&background=0D1117&ring=fe428e&fire=f8d847&currStreakLabel=fe428e&sideLabels=a78bfa&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" width="55%"/>
 
