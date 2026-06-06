@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agentic%20Engineer%20%7C%20Building%20Autonomous%20Systems%20from%20Coimbatore%20to%20the%20World&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agentic%20Engineer%20%7C%20Building%20Autonomous%20Systems%20from%20Dharapuram%20to%20the%20World&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Agentic+%2F+GenAI+Engineer+%F0%9F%A4%96;Building+RAG+Pipelines+%26+Multi-Agent+Systems;LangChain+%7C+LangGraph+%7C+OpenAI+%7C+FastAPI;Targeting+UAE+%26+Global+AI+Roles+by+2027" alt="Typing SVG" />
@@ -6,54 +6,27 @@
 
 <br/>
 
-<table border="0" align="center">
-<tr>
-<td width="50%" valign="top">
-
-<h3>👨‍💻 About Me</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Name-Vishnu%20A-70a5fd?style=flat-square&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/📍%20Location-Coimbatore%2C%20India-bf91f3?style=flat-square"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🎓%20Degree-B.Tech%20AI%20%26%20Data%20Science-38bdae?style=flat-square"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🏫%20College-KAHE%202024--2028-70a5fd?style=flat-square"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🚀%20Goal-AI%20Engineer%20Abroad%20by%202027-ff6b6b?style=flat-square"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-I%20ship%20agents%2C%20not%20just%20models-ffd93d?style=flat-square&logoColor=black"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+</div>
 
 <br/>
 
-<h3>🧠 Currently Learning</h3>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-70a5fd?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent%20Orchestration-bf91f3?style=flat-square"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-38bdae?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-Pipeline%20Optimization-ff6b6b?style=flat-square"/>
-</p>
+### 👨‍💻 About Me
 
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:10px"/>
-
+<img src="https://img.shields.io/badge/📍 Location-Dharapuram%2C India 🇮🇳-bf91f3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓 Degree-B.Tech AI %26 Data Science-38bdae?style=for-the-badge"/>
 <br/><br/>
+<img src="https://img.shields.io/badge/🏫 College-KAHE 2024--2028-70a5fd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀 Goal-AI Engineer Abroad by 2027-ff6b6b?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/⚡ Fun Fact-I ship agents not just models-ffd93d?style=for-the-badge&logoColor=black"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=38BDAE&center=true&vCenter=true&width=400&lines=Building+AI+Agents+%F0%9F%A4%96;RAG+%2B+LangChain+%2B+LangGraph;From+Coimbatore+to+the+World+%F0%9F%8C%8D;Open+to+UAE+%26+Global+Roles+%F0%9F%9A%80" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
-
----
 
 ---
 
@@ -180,7 +153,6 @@
 - 📊 Power BI for Data Analysis — Infosys Springboard (Oct 2025)
 - 🤖 GenAI Powered Data Analytics — Tata Group, Forage (Feb 2026)
 - 🔐 Technology Risk Simulation — Ernst & Young, Forage (Feb 2026)
----
 
 ---
 
@@ -192,18 +164,20 @@
 
 <br/><br/>
 
-<img src="file:///C:/Users/vishnu/Downloads/image%202.png" width="80" style="border-radius:50%"/>
+<img src="TECHVYN_IMAGE_URL" width="80"/>
 
 ### ⚡ Techvyn Builders
+
 <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-70a5fd?style=flat-square"/> <img src="https://img.shields.io/badge/Mission-AI%20Education%20for%20Students-38bdae?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-Tech%20Community%20Building-bf91f3?style=flat-square"/>
 
 *🛠️ Building the next generation of AI builders from Dharapuram*
 
 <br/>
 
-<img src="file:///C:/Users/vishnu/Downloads/image%201.png" width="80" style="border-radius:50%"/>
+<img src="ROTARACT_IMAGE_URL" width="80"/>
 
 ### 🌀 Rotaract Club of Coimbatore City
+
 <img src="https://img.shields.io/badge/Club-Rotaract%20Coimbatore%20City-f7931e?style=flat-square"/> <img src="https://img.shields.io/badge/Values-Service%20%7C%20Leadership%20%7C%20Fellowship-ff6b6b?style=flat-square"/> <img src="https://img.shields.io/badge/Impact-Community%20%26%20Social%20Change-ffd93d?style=flat-square&logoColor=black"/>
 
 *🤝 Serving the community, growing as a leader*
@@ -217,7 +191,9 @@
 > 💬 *"I don't just build AI systems — I build the people who build them."*
 
 </div>
+
 ---
+
 ## 🌐 Connect
 
 <div align="center">
