@@ -206,9 +206,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishnuA-ai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847&text_color=c9d1d9&border_radius=12"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuA-ai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishnuA-ai&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuA-ai&layout=compact&theme=radical" />
+</p>
 
 <br/><br/>
 
