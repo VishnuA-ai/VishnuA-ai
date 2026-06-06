@@ -6,35 +6,50 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
-</div>
+<table border="0" align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3>👨‍💻 About Me</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Name-Vishnu%20A-70a5fd?style=flat-square&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/📍%20Location-Coimbatore%2C%20India-bf91f3?style=flat-square"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🎓%20Degree-B.Tech%20AI%20%26%20Data%20Science-38bdae?style=flat-square"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🏫%20College-KAHE%202024--2028-70a5fd?style=flat-square"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🚀%20Goal-AI%20Engineer%20Abroad%20by%202027-ff6b6b?style=flat-square"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-I%20ship%20agents%2C%20not%20just%20models-ffd93d?style=flat-square&logoColor=black"/>
+</p>
 
 <br/>
 
-<div align="center">
+<h3>🧠 Currently Learning</h3>
 
-### 👨‍💻 About Me
+<p>
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-70a5fd?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent%20Orchestration-bf91f3?style=flat-square"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-38bdae?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-Pipeline%20Optimization-ff6b6b?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/📍 Location-Coimbatore%2C India 🇮🇳-bf91f3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎓 Degree-B.Tech AI %26 Data Science-38bdae?style=for-the-badge"/>
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:10px"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/🏫 College-KAHE 2024--2028-70a5fd?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀 Goal-AI Engineer Abroad by 2027-ff6b6b?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/⚡ Fun Fact-I ship agents not just models-ffd93d?style=for-the-badge&logoColor=black"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=38BDAE&center=true&vCenter=true&width=400&lines=Building+AI+Agents+%F0%9F%A4%96;RAG+%2B+LangChain+%2B+LangGraph;From+Coimbatore+to+the+World+%F0%9F%8C%8D;Open+to+UAE+%26+Global+Roles+%F0%9F%9A%80" />
 
-### 🧠 Currently Learning
-
-<img src="https://img.shields.io/badge/MCP-Model Context Protocol-70a5fd?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-Multi Agent Orchestration-bf91f3?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/n8n-Workflow Automation-38bdae?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Pipeline Optimization-ff6b6b?style=for-the-badge"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
