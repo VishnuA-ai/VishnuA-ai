@@ -38,35 +38,45 @@
 
 ---
 
-## 🧠 `whoami`
-
 ```python
 class VishnuA:
     name         = "Vishnu A"
-    location     = "Coimbatore, Tamil Nadu 🇮🇳"
-    degree       = "B.Tech — AI & Data Science @ KAHE (2024–2028)"
+    location     = "Dharapuram, Tamil Nadu, India"
+    degree       = "B.Tech AI & Data Science @ KAHE (2024–2028)"
     current_year = "2nd Year"
-    
+
+    startup      = "Founder @ Techvyn Builders"
+
     mission = """
-        I build AI agents that don't just respond — they reason, plan, and act.
-        Turning LLMs into autonomous systems that solve real-world problems at scale.
+    Building AI agents that reason, plan, and act.
+    Transforming LLMs into autonomous systems that solve real-world problems.
     """
 
     tech_philosophy = "Don't fine-tune models. Fine-tune the architecture."
-    
+
     building_now = [
-        "DubaiLegal AI Agent     → UAE-domain legal document automation",
-        "SupplyMind              → Multi-agent supply chain intelligence",
-        "SiteGuard               → AI-powered construction site safety",
+        "Agentic AI Systems",
+        "Multi-Agent Workflows",
+        "MCP-based Applications",
+        "LangGraph-powered AI Agents"
     ]
-    
+
+    learning = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Agentic AI",
+        "LLM Engineering",
+        "MCP",
+        "LangGraph"
+    ]
+
     targets = {
-        "career":   "AI Agentic Engineer role abroad (UAE priority)",
-        "research": "TEEP Internship @ Taiwan — MCP + LangGraph",
-        "deadline": "Before 3rd Year ends — no excuses",
+        "career": "Agentic AI Engineer (UAE)",
+        "research": "TEEP Internship, Taiwan",
+        "goal": "Become industry-ready in Agentic AI before 3rd year"
     }
-    
-    quote = "Build real things. Ship fast. Prove doubters wrong. 🚀"
+
+    quote = "Build. Ship. Learn. Repeat."
 ```
 
 ---
