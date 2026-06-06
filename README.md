@@ -3,8 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=260&section=header&text=VISHNU%20A&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20AI%20Agentic%20Engineer%20·%20Multi-Agent%20Architect%20·%20LLM%20Systems%20Builder&descAlignY=62&descSize=16&fontAlign=50" width="100%"/>
 
 <br/>
-
-```html
 <p align="center">
   <a href="https://github.com/VishnuA-ai">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=900&lines=Vishnu+A;Founder+%40+Techvyn+Builders;AI+%26+Data+Science+Student;Building+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Typing SVG" />
