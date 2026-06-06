@@ -5,7 +5,10 @@
 <br/>
 
 <a href="https://github.com/VishnuA-ai">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=860&lines=🔥+Building+AI+Agents+that+THINK+%2B+PLAN+%2B+ACT;⚡+LangChain+·+LangGraph+·+MCP+·+FastAPI;🌍+Dharapuram+→+UAE+→+WORLD;🚀+From+Tamil+Nadu+to+Global+AI+Engineer;💡+Don't+fine-tune+models.+Fine-tune+the+architecture." alt="Typing SVG"/>
+<img src=```html
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=900&lines=Vishnu+A;Founder+%40+Techvyn+Builders;AI+%26+Data+Science+Student;Building+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Typing SVG" />
+```
+
 </a>
 
 <br/><br/>
