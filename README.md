@@ -180,11 +180,6 @@
 - 📊 Power BI for Data Analysis — Infosys Springboard (Oct 2025)
 - 🤖 GenAI Powered Data Analytics — Tata Group, Forage (Feb 2026)
 - 🔐 Technology Risk Simulation — Ernst & Young, Forage (Feb 2026)
-
----
-
----
-
 ---
 
 ## 🌟 Leadership & Community
@@ -193,47 +188,51 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=Builder.+Leader.+Educator.+Visionary.+🚀" />
 
-<br/>
-
-<table border="0">
-<tr>
-
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/─────────────────-Founder%20%26%20CEO-70a5fd?style=for-the-badge&logoColor=white"/>
 <br/><br/>
-<img width="80" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"/>
+
+<img src="https://img.shields.io/badge/⚡-Founder%20%26%20CEO-70a5fd?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<img width="80" src="https://avatars.githubusercontent.com/VishnuA-ai"/>
+
 <br/>
-<h3>⚡ Techvyn Builders</h3>
+
+### ⚡ Techvyn Builders
+
 <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-70a5fd?style=flat-square"/>
-<br/>
 <img src="https://img.shields.io/badge/Mission-AI%20Education%20for%20Students-38bdae?style=flat-square"/>
-<br/>
 <img src="https://img.shields.io/badge/Focus-Tech%20Community%20Building-bf91f3?style=flat-square"/>
-<br/><br/>
-<i>🛠️ Building the next generation of AI builders in India</i>
-</td>
 
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/─────────────────-Proud%20Member-f7931e?style=for-the-badge&logoColor=white"/>
 <br/><br/>
-<img width="80" src="https://cdn-icons-png.flaticon.com/512/992/992651.png"/>
+
+*🛠️ Building the next generation of AI builders from Dharapuram*
+
+<br/><br/>
+
+---
+
+<img src="https://img.shields.io/badge/🌀-Proud%20Member-f7931e?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<img width="80" src="https://avatars.githubusercontent.com/VishnuA-ai"/>
+
 <br/>
-<h3>🌀 Rotaract Club</h3>
+
+### 🌀 Rotaract Club of Coimbatore City
+
 <img src="https://img.shields.io/badge/Club-Rotaract%20Coimbatore%20City-f7931e?style=flat-square"/>
-<br/>
 <img src="https://img.shields.io/badge/Values-Service%20%7C%20Leadership%20%7C%20Fellowship-ff6b6b?style=flat-square"/>
-<br/>
 <img src="https://img.shields.io/badge/Impact-Community%20%26%20Social%20Change-ffd93d?style=flat-square&logoColor=black"/>
+
 <br/><br/>
-<i>🤝 Serving the community, growing as a leader</i>
-</td>
 
-</tr>
-</table>
+*🤝 Serving the community, growing as a leader*
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/🤖%20Teaching%20AI%20to%20Students-Coimbatore%20%26%20Beyond-70a5fd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20Teaching%20AI%20to%20Students-Dharapuram%20%26%20Beyond-70a5fd?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🌍%20Vision-Every%20Student%20Builds%20with%20AI-38bdae?style=for-the-badge"/>
 
 <br/><br/>
@@ -241,6 +240,7 @@
 > 💬 *"I don't just build AI systems — I build the people who build them."*
 
 </div>
+---
 ## 🌐 Connect
 
 <div align="center">
