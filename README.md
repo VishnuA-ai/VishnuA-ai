@@ -164,7 +164,7 @@
 
 <br/><br/>
 
-<img src="TECHVYN_IMAGE_URL" width="80"/>
+<img src="https://confident-blush-9a5qbvob.edgeone.app/image%202.png" width="80"/>
 
 ### ⚡ Techvyn Builders
 
