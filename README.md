@@ -4,14 +4,14 @@
 
 <br/>
 
-<a href="https://github.com/VishnuA-ai">
-<img src=```html
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=900&lines=Vishnu+A;Founder+%40+Techvyn+Builders;AI+%26+Data+Science+Student;Building+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Typing SVG" />
+```html
+<p align="center">
+  <a href="https://github.com/VishnuA-ai">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=900&lines=Vishnu+A;Founder+%40+Techvyn+Builders;AI+%26+Data+Science+Student;Building+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+MCP+%7C+FastAPI" alt="Typing SVG" />
+  </a>
+</p>
 ```
-
-</a>
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnuaitech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishnuA-ai)
