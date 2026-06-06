@@ -6,35 +6,39 @@
 
 <br/>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+</div>
 
-python
-class VishnuA:
-    name       = "Vishnu A"
-    username   = "VishnuA-ai"
-    location   = "Coimbatore, India 🇮🇳"
-    degree     = "B.Tech AI & Data Science @ KAHE (2024–2028)"
+<br/>
 
-    stack = [
-        "Python", "LangChain", "LangGraph",
-        "OpenAI API", "FastAPI", "Streamlit",
-        "FAISS", "HuggingFace", "Scikit-learn"
-    ]
+<div align="center">
 
-    currently_learning = [
-        "MCP (Model Context Protocol)",
-        "Multi-Agent Orchestration",
-        "n8n Workflow Automation",
-        "RAG Pipeline Optimization"
-    ]
+### 👨‍💻 About Me
 
-    fun_fact = "I ship agents, not just models 🚀"
+<img src="https://img.shields.io/badge/📍 Location-Coimbatore%2C India 🇮🇳-bf91f3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓 Degree-B.Tech AI %26 Data Science-38bdae?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🏫 College-KAHE 2024--2028-70a5fd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀 Goal-AI Engineer Abroad by 2027-ff6b6b?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/⚡ Fun Fact-I ship agents not just models-ffd93d?style=for-the-badge&logoColor=black"/>
 
-    def motto(self):
-        return "Build in public. Break things. Fix them. Repeat."
+<br/><br/>
 
+### 🧠 Currently Learning
 
-<br clear="right"/>
+<img src="https://img.shields.io/badge/MCP-Model Context Protocol-70a5fd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-Multi Agent Orchestration-bf91f3?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/n8n-Workflow Automation-38bdae?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Pipeline Optimization-ff6b6b?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+---
 
 ---
 
