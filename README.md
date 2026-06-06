@@ -227,7 +227,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VishnuA-ai&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishnuA-ai&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
 </div>
 
