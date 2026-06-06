@@ -183,6 +183,39 @@
 
 ---
 
+---
+
+## 🌟 Leadership & Community
+
+<div align="center">
+
+### 🎯 Roles
+
+<img src="https://img.shields.io/badge/Rotaract Club-Proud Member-f7931e?style=for-the-badge&logo=rotary-international&logoColor=white"/>
+<img src="https://img.shields.io/badge/Techvyn Builders-Founder %26 CEO-70a5fd?style=for-the-badge&logo=rocket&logoColor=white"/>
+
+<br/><br/>
+
+### 🚀 What I Stand For
+
+<img src="https://img.shields.io/badge/🤖 AI Education-Teaching AI to Students-38bdae?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏗️ Community-Building Tech Communities-bf91f3?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🌍 Mission-Empowering Students with AI-ff6b6b?style=for-the-badge"/>
+
+<br/><br/>
+
+> 🎙️ *"I don't just build AI systems — I build the people who build them."*
+
+<br/>
+
+| Role | Organization | Focus |
+|---|---|---|
+| 🌀 **Proud Member** | Rotaract Club of Coimbatore City | Service · Leadership · Fellowship |
+| 🚀 **Founder & CEO** | Techvyn Builders | AI Education · Student Community · Tech Building |
+
+</div>
+
 ## 🌐 Connect
 
 <div align="center">
