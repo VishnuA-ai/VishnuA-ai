@@ -1,111 +1,130 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agentic%20Engineer%20%7C%20Building%20Autonomous%20Systems%20from%20Dharapuram%20to%20the%20World&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VISHNU%20A&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20AI%20Agentic%20Engineer%20%7C%20Multi-Agent%20Architect%20%7C%20LLM%20Systems%20Builder&descAlignY=62&descSize=16&fontAlign=50" width="100%"/>
+
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Agentic+%2F+GenAI+Engineer+%F0%9F%A4%96;Building+RAG+Pipelines+%26+Multi-Agent+Systems;LangChain+%7C+LangGraph+%7C+OpenAI+%7C+FastAPI;Targeting+UAE+%26+Global+AI+Roles+by+2027" alt="Typing SVG" />
+
+```
+██╗   ██╗██╗███████╗██╗  ██╗███╗   ██╗██╗   ██╗     █████╗
+██║   ██║██║██╔════╝██║  ██║████╗  ██║██║   ██║   ██╔══██╗
+██║   ██║██║███████╗███████║██╔██╗ ██║██║   ██║   ███████║
+╚██╗ ██╔╝██║╚════██║██╔══██║██║╚██╗██║██║   ██║   ██╔══██║
+ ╚████╔╝ ██║███████║██║  ██║██║ ╚████║╚██████╔╝██╗██║  ██║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
+```
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/VishnuA-ai">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=🤖+Building+Autonomous+AI+Agents+that+Think+%26+Act;🕸️+Designing+Multi-Agent+Orchestration+Systems;⚡+LangChain+%7C+LangGraph+%7C+MCP+%7C+FastAPI;🌍+Coimbatore+→+UAE+→+World;🚀+From+Ideas+to+Deployed+AI+Products" alt="Typing SVG" />
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
-</div>
 
-<br/>
-
-<div align="center">
-
-### 👨‍💻 About Me
-
-<img src="https://img.shields.io/badge/📍 Location-Dharapuram%2C India 🇮🇳-bf91f3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎓 Degree-B.Tech AI %26 Data Science-38bdae?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/🏫 College-KAHE 2024--2028-70a5fd?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀 Goal-AI Engineer Abroad by 2027-ff6b6b?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/⚡ Fun Fact-I ship agents not just models-ffd93d?style=for-the-badge&logoColor=black"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnuaitech)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishnuA-ai)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyappanvishnu74@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=VishnuA-ai&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 `whoami`
 
-**Languages**
+```python
+class VishnuA:
+    name         = "Vishnu A"
+    location     = "Coimbatore, Tamil Nadu 🇮🇳"
+    degree       = "B.Tech — AI & Data Science @ KAHE (2024–2028)"
+    current_year = "2nd Year"
+    
+    mission = """
+        I build AI agents that don't just respond — they reason, plan, and act.
+        Turning LLMs into autonomous systems that solve real-world problems at scale.
+    """
+
+    tech_philosophy = "Don't fine-tune models. Fine-tune the architecture."
+    
+    building_now = [
+        "DubaiLegal AI Agent     → UAE-domain legal document automation",
+        "SupplyMind              → Multi-agent supply chain intelligence",
+        "SiteGuard               → AI-powered construction site safety",
+    ]
+    
+    targets = {
+        "career":   "AI Agentic Engineer role abroad (UAE priority)",
+        "research": "TEEP Internship @ Taiwan — MCP + LangGraph",
+        "deadline": "Before 3rd Year ends — no excuses",
+    }
+    
+    quote = "Build real things. Ship fast. Prove doubters wrong. 🚀"
+```
+
+---
+
+## ⚙️ Tech Stack — The Full Arsenal
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+**🐍 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML / LLM**
+</td>
+<td align="center" width="200">
+
+**🤖 AI / LLM**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
-**Frameworks & Tools**
+</td>
+<td align="center" width="200">
+
+**⚡ Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Databases & Cloud**
+</td>
+<td align="center" width="200">
+
+**☁️ Infra & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=google&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/VishnuA-ai">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=VishnuA-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/VishnuA-ai">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuA-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VishnuA-ai&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuA-ai&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishnuA-ai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -113,49 +132,120 @@
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| [**ResearchMind AI**](https://github.com/VishnuA-ai/ResearchMind-AI) | Python · LangChain · Groq · LLaMA-3.3-70B · FAISS · Streamlit | RAG-powered research assistant; HuggingFace MiniLM embeddings; multi-doc Q&A with source citations |
-| [**UniSpam AI**](https://github.com/VishnuA-ai/Unispam-Detection) | Python · Scikit-learn · NLTK · Streamlit | Multi-platform spam detector; ~98.65% accuracy; SMS + Email + Social detection |
+### 🔬 ResearchMind AI — RAG-Powered Research Assistant
+
+[![Repo](https://img.shields.io/badge/GitHub-ResearchMind--AI-181717?style=for-the-badge&logo=github)](https://github.com/VishnuA-ai/ResearchMind-AI)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+> 🧠 **Ingest → Embed → Retrieve → Generate** — a full RAG pipeline for research automation.
+> LLaMA-3.3-70B via Groq · HuggingFace MiniLM embeddings · FAISS vector store · Multi-doc Q&A with source citations
+
+---
+
+### 🛡️ UniSpam AI — Multi-Platform Spam Detector
+
+[![Repo](https://img.shields.io/badge/GitHub-Unispam--Detection-181717?style=for-the-badge&logo=github)](https://github.com/VishnuA-ai/Unispam-Detection)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3A4F41?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+> 🎯 **~98.65% accuracy** across SMS, Email & Social Media platforms.
+> TF-IDF features · Ensemble model · Real-time prediction · Clean Streamlit UI
 
 </div>
 
 ---
 
-## 🎯 Currently Learning
+## 🌍 What I'm Building Toward
 
 ```
-🤖 MCP (Model Context Protocol)  →  Tool servers, agent-to-tool handshakes
-🕸️  Multi-Agent Orchestration     →  LangGraph supervisor patterns, sub-agent design
-⚙️  n8n Workflow Automation       →  LLM-triggered pipelines, webhook integrations
-📚  RAG Optimization              →  Hybrid retrieval, re-ranking, context compression
-🌍  UAE AI Job Market             →  DubaiLegal Agent · SupplyMind · SiteGuard (building)
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    🎯  ACTIVE MISSION BOARD                             ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  🇦🇪  UAE TRACK                                                          ║
+║  ├── DubaiLegal Agent  →  Legal doc AI for UAE law firms                ║
+║  ├── SupplyMind        →  Multi-agent logistics intelligence             ║
+║  └── SiteGuard         →  CV + LLM safety monitoring for construction   ║
+║                                                                          ║
+║  🇹🇼  TAIWAN TRACK (TEEP Research Internship)                            ║
+║  ├── Chang Gung Univ   →  AI Agent + MCP (Prof. Po-Jung Huang)          ║
+║  ├── NCKU              →  Multi-agent LLM code generation                ║
+║  └── Da-Yeh            →  LLM + n8n workflow automation                 ║
+║                                                                          ║
+║  📚  SKILLS STACK                                                        ║
+║  ├── MCP (Model Context Protocol)  →  Tool servers, agent handshakes    ║
+║  ├── LangGraph Supervisor Patterns →  Multi-agent orchestration         ║
+║  ├── RAG Optimization              →  Hybrid retrieval + re-ranking     ║
+║  └── n8n Automation                →  LLM-triggered pipelines           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VishnuA-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=12&ring_color=7c3aed"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuA-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+</div>
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech — AI & Data Science | Karpagam Academy of Higher Education, Coimbatore | 2024 – 2028 | 2nd Year |
-| HSC (12th) | — | 2024 | 71.7% |
+<br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VishnuA-ai&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" width="55%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuA-ai&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=38bdae&area=true&hide_border=true&area_color=7c3aed" width="100%"/>
 </div>
 
 ---
 
-## 📜 Certifications
+## 🏆 Trophy Cabinet
 
-- 🏅 Data Science — Infosys Springboard (Oct 2025)
-- 📊 Power BI for Data Analysis — Infosys Springboard (Oct 2025)
-- 🤖 GenAI Powered Data Analytics — Tata Group, Forage (Feb 2026)
-- 🔐 Technology Risk Simulation — Ernst & Young, Forage (Feb 2026)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishnuA-ai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
+</div>
 
 ---
----
+
+## 🎓 Education & Certifications
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Education
+
+| Degree | Institution | Status |
+|--------|-------------|--------|
+| B.Tech — AI & Data Science | KAHE, Coimbatore | 🟢 2nd Year |
+| HSC (12th) | — | ✅ 71.7% |
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Certifications
+
+| Badge | Cert | Issuer |
+|-------|------|--------|
+| 🏅 | Data Science | Infosys Springboard |
+| 📊 | Power BI for Data Analysis | Infosys Springboard |
+| 🤖 | GenAI Powered Data Analytics | Tata Group, Forage |
+| 🔐 | Technology Risk Simulation | Ernst & Young, Forage |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -163,39 +253,69 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=Builder.+Leader.+Educator.+Visionary.+🚀"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br/><br/>
+### ⚡ Techvyn Builders
 
-| | |
-|:---:|:---:|
-| <img src="TECHVYN_IMAGE_URL" width="120"/><br/><br/>**⚡ Techvyn Builders**<br/>![Role](https://img.shields.io/badge/Role-Founder%20%26%20CEO-70a5fd?style=flat-square) ![Mission](https://img.shields.io/badge/Mission-AI%20Education-38bdae?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-Community%20Building-bf91f3?style=flat-square)<br/><br/>*🛠️ Building AI builders from Dharapuram* | <img src="ROTARACT_IMAGE_URL" width="120"/><br/><br/>**🌀 Rotaract Club of Coimbatore City**<br/>![Club](https://img.shields.io/badge/Member-Rotaract%20Coimbatore-f7931e?style=flat-square) ![Values](https://img.shields.io/badge/Values-Service%20%7C%20Leadership-ff6b6b?style=flat-square) ![Impact](https://img.shields.io/badge/Impact-Social%20Change-ffd93d?style=flat-square&logoColor=black)<br/><br/>*🤝 Serving community, growing as a leader* |
+![Role](https://img.shields.io/badge/Role-Founder%20%26%20CEO-7c3aed?style=for-the-badge)
 
-<br/>
+**Bridging AI education gaps in Tier-2 India.**
 
-<img src="https://img.shields.io/badge/🤖 Teaching AI-Dharapuram%20%26%20Beyond-70a5fd?style=for-the-badge"/> <img src="https://img.shields.io/badge/🌍 Vision-Every%20Student%20Builds%20with%20AI-38bdae?style=for-the-badge"/>
+Building a community where students from Dharapuram, Coimbatore, and beyond learn to create real AI systems — not just consume them.
 
-<br/><br/>
+> *"Every student deserves to build with AI."*
 
-> 💬 *"I don't just build AI systems — I build the people who build them."*
+</td>
+<td align="center" width="50%">
+
+### 🌀 Rotaract Club of Coimbatore City
+
+![Role](https://img.shields.io/badge/Member-Active-38bdae?style=for-the-badge)
+![Role](https://img.shields.io/badge/Secretary-Candidate-f59e0b?style=for-the-badge)
+
+**Service. Leadership. Impact.**
+
+Running projects in digital literacy, youth leadership, and community empowerment — because tech skills mean nothing without social responsibility.
+
+> *"Organise. Connect. Serve."*
+
+</td>
+</tr>
+</table>
 
 </div>
+
 ---
 
-## 🌐 Connect
+## 💭 Philosophy
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishnuaitech-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnuaitech)
-[![GitHub](https://img.shields.io/badge/GitHub-VishnuA--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VishnuA-ai)
-[![Email](https://img.shields.io/badge/Email-ayyappanvishnu74@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayyappanvishnu74@gmail.com)
+```
+"I don't just build AI systems — I build the people who build them."
 
-![Profile Views](https://komarev.com/ghpvc/?username=VishnuA-ai&color=70a5fd&style=flat-square&label=Profile+Views)
+"The gap between me and the engineer abroad I want to become
+ is closed by one thing only: daily, deliberate output."
+
+"Build real things. Ship fast. Prove doubters wrong." 🚀
+```
 
 </div>
 
 ---
 
-> *"Build real things. Ship fast. Prove doubters wrong."* 🚀
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+### 🤝 Open to Collaborations on:
+`AI Agent Systems` · `RAG Pipelines` · `Multi-Agent Orchestration` · `LLM-Powered Products`
+
+**Let's build something that matters.**
+
+[![LinkedIn](https://img.shields.io/badge/DM%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnuaitech)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyappanvishnu74@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn&fontColor=ffffff&text=Coimbatore%20→%20World%20🌏&fontSize=20&fontAlignY=65" width="100%"/>
