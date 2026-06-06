@@ -155,6 +155,9 @@
 - 🔐 Technology Risk Simulation — Ernst & Young, Forage (Feb 2026)
 
 ---
+---
+
+---
 
 ## 🌟 Leadership & Community
 
@@ -164,34 +167,19 @@
 
 <br/><br/>
 
-<img src="https://confident-blush-9a5qbvob.edgeone.app/image%202.png" width="80"/>
-
-### ⚡ Techvyn Builders
-
-<img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-70a5fd?style=flat-square"/> <img src="https://img.shields.io/badge/Mission-AI%20Education%20for%20Students-38bdae?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-Tech%20Community%20Building-bf91f3?style=flat-square"/>
-
-*🛠️ Building the next generation of AI builders from Dharapuram*
-
-<br/>
-
-<img src="https://screeching-plum-z5flqum7.edgeone.app/image%201.png" width="80"/>
-
-### 🌀 Rotaract Club of Coimbatore City
-
-<img src="https://img.shields.io/badge/Club-Rotaract%20Coimbatore%20City-f7931e?style=flat-square"/> <img src="https://img.shields.io/badge/Values-Service%20%7C%20Leadership%20%7C%20Fellowship-ff6b6b?style=flat-square"/> <img src="https://img.shields.io/badge/Impact-Community%20%26%20Social%20Change-ffd93d?style=flat-square&logoColor=black"/>
-
-*🤝 Serving the community, growing as a leader*
+| | |
+|:---:|:---:|
+| <img src="TECHVYN_IMAGE_URL" width="120"/><br/><br/>**⚡ Techvyn Builders**<br/>![Role](https://img.shields.io/badge/Role-Founder%20%26%20CEO-70a5fd?style=flat-square) ![Mission](https://img.shields.io/badge/Mission-AI%20Education-38bdae?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-Community%20Building-bf91f3?style=flat-square)<br/><br/>*🛠️ Building AI builders from Dharapuram* | <img src="ROTARACT_IMAGE_URL" width="120"/><br/><br/>**🌀 Rotaract Club of Coimbatore City**<br/>![Club](https://img.shields.io/badge/Member-Rotaract%20Coimbatore-f7931e?style=flat-square) ![Values](https://img.shields.io/badge/Values-Service%20%7C%20Leadership-ff6b6b?style=flat-square) ![Impact](https://img.shields.io/badge/Impact-Social%20Change-ffd93d?style=flat-square&logoColor=black)<br/><br/>*🤝 Serving community, growing as a leader* |
 
 <br/>
 
 <img src="https://img.shields.io/badge/🤖 Teaching AI-Dharapuram%20%26%20Beyond-70a5fd?style=for-the-badge"/> <img src="https://img.shields.io/badge/🌍 Vision-Every%20Student%20Builds%20with%20AI-38bdae?style=for-the-badge"/>
 
-<br/>
+<br/><br/>
 
 > 💬 *"I don't just build AI systems — I build the people who build them."*
 
 </div>
-
 ---
 
 ## 🌐 Connect
