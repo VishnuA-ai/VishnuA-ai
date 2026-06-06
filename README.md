@@ -8,7 +8,7 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+python
 class VishnuA:
     name       = "Vishnu A"
     username   = "VishnuA-ai"
@@ -32,7 +32,7 @@ class VishnuA:
 
     def motto(self):
         return "Build in public. Break things. Fix them. Repeat."
-```
+
 
 <br clear="right"/>
 
