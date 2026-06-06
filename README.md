@@ -174,7 +174,7 @@
 
 <br/>
 
-<img src="ROTARACT_IMAGE_URL" width="80"/>
+<img src="https://screeching-plum-z5flqum7.edgeone.app/image%201.png" width="80"/>
 
 ### 🌀 Rotaract Club of Coimbatore City
 
